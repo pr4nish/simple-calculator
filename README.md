@@ -13,3 +13,7 @@ Perfect for learning React basics while having a fun, interactive UI.
 - Smooth **animations** and **hover effects**.
 - Responsive design for desktop and mobile.
 - Beginner-friendly code: perfect for learning React
+
+## Demo Calculator
+
+https://simple-calculator-pi-swart.vercel.app/
